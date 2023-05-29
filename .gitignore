@@ -1,0 +1,4 @@
+node_modules/
+mochaawsome/report/
+.package-lock.json
+.env
